@@ -11,6 +11,4 @@ O projeto foi montado na versão 3.05 do Flutter, então por questões de compat
 - Alguma IDE (ex: VSCode, Intellij, Android Studio, etc...) configurada para utilizar o Flutter
 - Algum dispositivo (virtual ou físico) para testar/subir a aplicação
 
-## ➕ Mais informações ++
 
-Confira a formação Flutter na plataforma da Alura
